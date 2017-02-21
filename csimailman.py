@@ -64,4 +64,4 @@ for line in inputFile:
 		# -s : subject
 		# -i : content of body
 		# -a : attach file
-		subprocess.call(["mutt", "-s", "Update from CSI society, GNDEC", email, "-i", "mailContent.txt"])
+		subprocess.call(["mutt", "-s", "Update from CSI society, GNDEC", email, "<", "mailContent.txt"])
