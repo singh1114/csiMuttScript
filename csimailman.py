@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-    # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 """
 * MIT Licensed
@@ -47,7 +47,7 @@ for line in inputFile:
 		# split the line by a comma
 		words = line.split(",")
 
-		for x in range(0, 3):
+		for x in range(3):
 			# Remove the " sign and replace it with empty character
 			words[x] = words[x].replace('"', '')
 

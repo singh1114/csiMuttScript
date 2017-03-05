@@ -12,4 +12,4 @@
 
 * Install mutt by using this tutorial and follow it.
 
-* http://www.tecmint.com/send-mail-from-command-line-using-mutt-command/
+* http://nickdesaulniers.github.io/blog/2016/06/18/mutt-gmail-ubuntu/
